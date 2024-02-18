@@ -17,3 +17,5 @@ with the help of the data following questions can be answered using excel :
 Answering these questions will give us a valuable insights about the users and how they use the NY Citi Bike rental service. All are very useful for NY citi Bike rental service in making business decisions.
 
  1. TOP 20 popular pick-up locations across the city for NY Citi Bike rental using Bar chart :
+
+    ![top_20 location](https://github.com/maansiisp/DA-project-excel/assets/159099467/ba3196c1-6559-4249-a567-978d7b9837e4)
