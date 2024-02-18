@@ -15,4 +15,5 @@ with the help of the data following questions can be answered using excel :
 4. How does bike rental vary across the two user groups (one-time users vs long-term subscribers) on different days of the week?
 
 Answering these questions will give us a valuable insights about the users and how they use the NY Citi Bike rental service. All are very useful for NY citi Bike rental service in making business decisions.
-  
+
+ 1. TOP 20 popular pick-up locations across the city for NY Citi Bike rental using Bar chart :
