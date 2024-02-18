@@ -5,7 +5,7 @@ source : careerfoundary
 
 ABOUT THE DATA_SET :
 -The data_set includes Some user information like :
-  User_name , Pick - up station and drop Station, drop location , Duration in months ---
+  User_name , Pick - up station and drop Station_name , drop location , Duration in months ---
 
 How can this data be helpful to rental services?
 with the help of the data following questions can be answered using excel :
