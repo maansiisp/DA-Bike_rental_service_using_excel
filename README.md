@@ -32,7 +32,4 @@ Answering these questions will give us a valuable insights about the users and h
 
 ![chart](https://github.com/maansiisp/DA-project-excel/assets/159099467/c9938f01-7f14-426f-be3c-a1dffe194f92)
 
-![scatter](https://github.com/maansiisp/DA-project-excel/assets/159099467/4e05377e-2e05-44e7-9b2a-a324474ef380)
-
-
 
